@@ -1,4 +1,4 @@
-# gtuml
+# GTU Machine Learning Practicals
 GTU Machine Learning Practicals
 1. KNN On Cancer Dataset
 2. Decision Tree on Cancer Dataset
